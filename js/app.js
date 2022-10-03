@@ -10,5 +10,5 @@ function CreditCard(){
 
 function PrivetMir(){
     window.open("https://privetmir.ru/","_self");
-    console.log("credit card");
+    console.log("open privetMir");
 }
